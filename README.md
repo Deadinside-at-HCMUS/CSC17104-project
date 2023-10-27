@@ -13,4 +13,3 @@ Working Plan: [Trello](https://trello.com/b/eya5drhR/main)
 *1. Dataset:*
 [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) includes 11 clinical features for predicting heart disease events.
 
-*
