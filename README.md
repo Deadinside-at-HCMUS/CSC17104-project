@@ -2,10 +2,10 @@
 
 ## I. Team members information:
 
-StudentID  |Name
-	  -|-
-21127175   |Le Anh Thu
-21127693   |Huynh Duc Thien
+StudentID|Full Name
+-|-
+21127175|Le Anh Thu
+21127693|Huynh Duc Thien
 
 Working Plan: [Trello](https://trello.com/b/eya5drhR/main)
 
