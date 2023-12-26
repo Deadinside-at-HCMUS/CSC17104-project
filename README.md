@@ -20,18 +20,22 @@ Heart failure, a common consequence of Cardiovascular diseases (CVDs), is addres
 
 ### 2. EDA
 - **Column Meaning**
+  
     <img src="Image/Column-meaning.png">
 
 - **Column Types**
+  
 <center>
     <img src="Image/Column-type.png" height=250>
 </center>
 
 - **Distribution**
     - Numeric Values
+      
     <img src="Image/Numeric-values.png">
 
     - Categorical Values
+      
     <img src="Image/Categorical-values.png">
 
 ### 3. Asking Meaning Questions
@@ -42,12 +46,15 @@ Heart failure, a common consequence of Cardiovascular diseases (CVDs), is addres
 **How to answer this question:**
 
 - Analyzing the impact of `Sex` and `Age` on `Heart Disease`
+  
     <img src="Image/Age-Sex.png">
 
 - Detail on `Sex`
+  
     <img src="Image/Sex.png">
 
 - Detail on `Age`
+  
     <img src="Image/Age.png">
     
     <img src="Image/Age-distribution.png">
@@ -71,16 +78,19 @@ Heart failure, a common consequence of Cardiovascular diseases (CVDs), is addres
 **How to answer this question:**
 
 - Analyzing the distribution of `RestingBP`, `Cholesterol`, `FastingBS`, `MaxHR` on `HeartDisease`
+  
   <img src="Image/Factors-distribution.png">
 
 - Training `Random Forest Classifier` to evaluate feature importance 
 - 
   - Classification Report
+    
     <center>
     <img src="Image/Classification-report.png" width=350>
     </center>
 
   - Value Importance
+    
     <center>
     <img src="Image/Value-importance.png" width=150>
     </center>
