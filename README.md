@@ -24,10 +24,8 @@ Heart failure, a common consequence of Cardiovascular diseases (CVDs), is addres
     <img src="Image/Column-meaning.png">
 
 - **Column Types**
-  
-<center>
+
     <img src="Image/Column-type.png" height=250>
-</center>
 
 - **Distribution**
     - Numeric Values
@@ -82,7 +80,7 @@ Heart failure, a common consequence of Cardiovascular diseases (CVDs), is addres
   <img src="Image/Factors-distribution.png">
 
 - Training `Random Forest Classifier` to evaluate feature importance 
-- 
+ 
   - Classification Report
     
     <center>
