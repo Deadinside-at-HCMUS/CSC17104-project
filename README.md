@@ -18,7 +18,7 @@
 ### 1. Dataset
 Heart failure, a common consequence of Cardiovascular diseases (CVDs), is addressed in this [dataset](#https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction), encompassing 11 distinct features that enable the prediction of potential heart disease.
 
-### 2. EDA
+### 2. Exploratory Data Analysis (EDA)
 - **Column Meaning**
   
     <img src="Image/Column-meaning.png">
